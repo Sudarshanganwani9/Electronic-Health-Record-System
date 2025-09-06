@@ -77,9 +77,7 @@ This template includes a generated Supabase client with hardcoded credentials (f
 SUPABASE_URL: https://yzsuhfhhzcggawjsuyxk.supabase.co
 SUPABASE_ANON_KEY: <embedded in src/integrations/supabase/client.ts>
 
-> For production, replace these with your own project URL and anon key.
-If you prefer environment variables, refactor the client to read from import.meta.env values (e.g. VITE_SUPABASE_URL, VITE_SUPABASE_ANON_KEY) and add them to a .env file at project root.
-
+https://github.com/Sudarshanganwani9/Electronic-Health-Record-System
 
 
 ## 🗃️ Database Schema (key tables)
